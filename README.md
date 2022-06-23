@@ -18,12 +18,9 @@ Erode the image.
 Dilate the image.
 
 ## PROGRAM:
-```
-/*
-Developed by   : A.Divya Meenakshi
-Register Number: 212220230014
-*/
-```
+### Developed by   : A.Divya Meenakshi
+### Register Number: 212220230014
+
 ``` Python
 # Import the necessary packages
 import cv2
